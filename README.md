@@ -24,4 +24,22 @@ The following image is the district summary after removing the ninth grade score
 
 ### School Summary
 - The school summary was affected by the removal of the ninth graders at Thomas High School's math and reading scores.
+    - The average math score at Thomas High School dropped from 83.41 to 83.35. After rounding, this change would not be evident.
+    - The average reading score at Thomas High School increased from 83.84 to 83.89. After rounding, this would be a 0.1 increase from 83.8 to 83.9.
+    - The percent of students passing math dropped from 93.27 to 93.18. After rounding, this change would not be evident.
+    - The percent of students passing reading at Thomas High School dropped from 97.3% to 97.0%, a 0.3% decrease. After rounding to the nearest whole percent, this change would not be evident.
+    - The percent of students passing both math and reading(passing overall) at Thomas High School dropped from 90.9% to 90.6%, a 0.3% decrease. After rounding to the nearest whole percent, this change would not be evident.
+
+- Removing the ninth graders at Thomas High School's math and reading scores does not significantly affect Thomas High School's performance relative to other schools.
+    - All of the changes caused be removing the scores are quite small, less than 1 or 1%.  
+    - After rounding to the nearest tenth place for the average math and reading scores, almost all of the changes are not large enough to be reflected. 
+    - After rounding the percent of students passing math, reading, and both to the nearest whole percent these changes are not large enough to be reflected.
+
+### Scores by School Spending
+- The average scores based on school spending (per student) are not affected by the removal of the ninth graders from Thomas High School's scores.
+
+
+
+
+
 
