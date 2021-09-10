@@ -92,7 +92,20 @@ The following image is the scores by school size summary after removing the nint
 
 <img width="677" alt="Scores By School Size-Cha" src="https://user-images.githubusercontent.com/88804543/132927535-67d3bc50-f6cb-40c4-965f-9121afde571c.png">
 
+### Scores by School Type
+- The average scores based on school type (charter or district) were not affected by the removal of the ninth graders from Thomas High School's scores.
 
+The following image is the scores by school type summary including all of the grades:
+
+<img width="640" alt="Scores by School Type-Mod" src="https://user-images.githubusercontent.com/88804543/132927714-e03e6173-f9f7-4d18-913e-2c4ac3b8cd15.png">
+
+The following image is the scores by school type summary after removing the ninth grade scores from Thomas High School:
+
+<img width="640" alt="Scores by School Type-Cha" src="https://user-images.githubusercontent.com/88804543/132927723-3357762c-6ec4-4861-bc39-5994c98db1be.png">
+
+
+## Summary
+There were 4
 
 
 
