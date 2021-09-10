@@ -35,6 +35,15 @@ The following image is the district summary after removing the ninth grade score
     - After rounding to the nearest tenth place for the average math and reading scores, almost all of the changes are not large enough to be reflected. 
     - After rounding the percent of students passing math, reading, and both to the nearest whole percent these changes are not large enough to be reflected.
 
+The following image is the school summary including all of the grades:
+
+<img width="804" alt="School Summary-Mod" src="https://user-images.githubusercontent.com/88804543/132926461-d2702752-c507-4a90-8d71-fffaa0543bf5.png">
+
+The following image is the school summary after removing the ninth grade scores from Thomas High School:
+
+<img width="895" alt="School Summary-Cha" src="https://user-images.githubusercontent.com/88804543/132927066-03a026d1-f80a-4416-ae63-6d41e96c4687.png">
+
+
 ### Scores by School Spending
 - The average scores based on school spending (per student) are not affected by the removal of the ninth graders from Thomas High School's scores.
 
