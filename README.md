@@ -58,7 +58,7 @@ The following image is the math scores summary after removing the ninth grade sc
 
 
 - Reading Scores
-    - The average math score for the ninth graders at Thomas High School has been replaced with NaN. The average math scores of the other grades (10-12) were not impacted by the removal of the ninth graders' scores.
+    - The average reading score for the ninth graders at Thomas High School has been replaced with NaN. The average reading scores of the other grades (10-12) were not impacted by the removal of the ninth graders' scores.
 
 The following image is the reading scores summary including all of the grades:
 
