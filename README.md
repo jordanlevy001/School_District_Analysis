@@ -8,9 +8,10 @@ The purpose of this analysis was to assist the school board in determining if th
 
 ## Results
 
+### District Summary
 - The district summary was affected by the removal of the ninth graders at Thomas High School's math and reading scores.
- - The average math score was reduced from 79.0 to 78.9.
- - However, the average reading score, the percent of students passing math and reading, and the percent of students passing overall remained the same.
+ * The average math score was reduced from 79.0 to 78.9.
+ * However, the average reading score, the percent of students passing math and reading, and the percent of students passing overall remained the same.
 
 The following image is the district summary including all of the grades:
 
@@ -21,5 +22,6 @@ The following image is the district summary after removing the ninth grade score
 <img width="831" alt="District Summary-Cha" src="https://user-images.githubusercontent.com/88804543/132924903-bb67c089-62ac-4b5d-9177-e06f392f8fa9.png">
 
 
-
+### School Summary
+- The school summary was affected by the removal of the ninth graders at Thomas High School's math and reading scores.
 
