@@ -44,6 +44,31 @@ The following image is the school summary after removing the ninth grade scores 
 <img width="895" alt="School Summary-Cha" src="https://user-images.githubusercontent.com/88804543/132927066-03a026d1-f80a-4416-ae63-6d41e96c4687.png">
 
 
+### Math and Reading Scores by Grade
+- Math Scores
+    - The average math score for the ninth graders at Thomas High School has been replaced with NaN. The average math scores of the other grades (10-12) were not impacted by the removal of the ninth graders' scores.
+
+The following image is the math scores summary including all of the grades:
+
+<img width="270" alt="Math Scores by Grade-Mod" src="https://user-images.githubusercontent.com/88804543/132927362-3f51a596-9a33-4762-b0d9-4a24ed343ec9.png">
+
+The following image is the math scores summary after removing the ninth grade scores from Thomas High School:
+
+<img width="270" alt="Math Scores by Grade-Cha" src="https://user-images.githubusercontent.com/88804543/132927403-4407349b-4ace-494d-a334-af521ec37684.png">
+
+
+- Reading Scores
+    - The average math score for the ninth graders at Thomas High School has been replaced with NaN. The average math scores of the other grades (10-12) were not impacted by the removal of the ninth graders' scores.
+
+The following image is the reading scores summary including all of the grades:
+
+<img width="270" alt="Reading Scores by Grade-Mod" src="https://user-images.githubusercontent.com/88804543/132927448-c9273ba3-9636-4bd2-af5e-73723191316f.png">
+
+The following image is the reading scores summary after removing the ninth grade scores from Thomas High School:
+
+<img width="267" alt="Reading Scores by Grade-Cha" src="https://user-images.githubusercontent.com/88804543/132927459-430cc90b-87aa-41ba-b7dd-ef68493e3967.png">
+
+
 ### Scores by School Spending
 - The average scores based on school spending (per student) were not affected by the removal of the ninth graders from Thomas High School's scores.
 
@@ -57,9 +82,15 @@ The following image is the scores by school spending (per student) summary after
 
 
 ### Scores by School Size
+- The average scores based on school size (small, medium, large) were not affected by the removal of the ninth graders from Thomas High School's scores.
 
+The following image is the scores by school size summary including all of the grades:
 
+<img width="686" alt="Scores By School Size-Mod" src="https://user-images.githubusercontent.com/88804543/132927513-b03add30-0931-4674-be6c-68e2319d7db8.png">
 
+The following image is the scores by school size summary after removing the ninth grade scores from Thomas High School:
+
+<img width="677" alt="Scores By School Size-Cha" src="https://user-images.githubusercontent.com/88804543/132927535-67d3bc50-f6cb-40c4-965f-9121afde571c.png">
 
 
 
