@@ -105,7 +105,9 @@ The following image is the scores by school type summary after removing the nint
 
 
 ## Summary
-There were 4
+There were 4 changes in the school district analysis after removing the ninth graders at Thomas High School's scores.
+1. In the district summary, the average math score was reduced from 79.0 to 78.9. This is a relatively small change.
+2. The average reading score within Thomas High School increased by 0.1, from
 
 
 
